@@ -10,7 +10,7 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using System.Text;
 
-namespace MindWorX.GPUDust
+namespace TinkerWorX.GPUDust
 {
     public class GPUDustGame : Game
     {

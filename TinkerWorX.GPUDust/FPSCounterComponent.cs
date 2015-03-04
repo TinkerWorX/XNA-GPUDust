@@ -1,7 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using System;
 
-namespace MindWorX.GPUDust
+namespace TinkerWorX.GPUDust
 {
     public class FPSCounterComponent : DrawableGameComponent
     {

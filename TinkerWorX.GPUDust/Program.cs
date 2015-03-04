@@ -1,6 +1,6 @@
 using System;
 
-namespace MindWorX.GPUDust
+namespace TinkerWorX.GPUDust
 {
     public static class Program
     {

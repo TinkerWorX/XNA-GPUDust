@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace MindWorX.GPUDust
+namespace TinkerWorX.GPUDust
 {
     static class VectorEx
     {

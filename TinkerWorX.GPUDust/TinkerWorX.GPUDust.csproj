@@ -7,8 +7,8 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MindWorX.GPUDust</RootNamespace>
-    <AssemblyName>MindWorX.GPUDust</AssemblyName>
+    <RootNamespace>TinkerWorX.GPUDust</RootNamespace>
+    <AssemblyName>TinkerWorX.GPUDust</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
@@ -104,9 +104,9 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MindWorX.GPUDust.Content\MindWorX.GPUDust.Content.contentproj">
+    <ProjectReference Include="..\TinkerWorX.GPUDust.Content\TinkerWorX.GPUDust.Content.contentproj">
       <Project>{70C0436E-1312-4DE0-88A4-E84266E805ED}</Project>
-      <Name>MindWorX.GPUDust.Content</Name>
+      <Name>TinkerWorX.GPUDust.Content</Name>
       <XnaReferenceType>Content</XnaReferenceType>
     </ProjectReference>
   </ItemGroup>
